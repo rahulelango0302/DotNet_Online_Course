@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/admin/Developer/Dotnet_with_angular/SocialApp/LSC.OnlineCourse.API/LSC.OnlineCourse.API.csproj": {}
+    "/Users/admin/Developer/Dotnet_with_angular/OnlineCourse/LSC.OnlineCourse.API/LSC.OnlineCourse.API.csproj": {}
   },
   "projects": {
-    "/Users/admin/Developer/Dotnet_with_angular/SocialApp/LSC.OnlineCourse.API/LSC.OnlineCourse.API.csproj": {
+    "/Users/admin/Developer/Dotnet_with_angular/OnlineCourse/LSC.OnlineCourse.API/LSC.OnlineCourse.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/admin/Developer/Dotnet_with_angular/SocialApp/LSC.OnlineCourse.API/LSC.OnlineCourse.API.csproj",
+        "projectUniqueName": "/Users/admin/Developer/Dotnet_with_angular/OnlineCourse/LSC.OnlineCourse.API/LSC.OnlineCourse.API.csproj",
         "projectName": "LSC.OnlineCourse.API",
-        "projectPath": "/Users/admin/Developer/Dotnet_with_angular/SocialApp/LSC.OnlineCourse.API/LSC.OnlineCourse.API.csproj",
+        "projectPath": "/Users/admin/Developer/Dotnet_with_angular/OnlineCourse/LSC.OnlineCourse.API/LSC.OnlineCourse.API.csproj",
         "packagesPath": "/Users/admin/.nuget/packages/",
-        "outputPath": "/Users/admin/Developer/Dotnet_with_angular/SocialApp/LSC.OnlineCourse.API/obj/",
+        "outputPath": "/Users/admin/Developer/Dotnet_with_angular/OnlineCourse/LSC.OnlineCourse.API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/admin/.nuget/NuGet/NuGet.Config"

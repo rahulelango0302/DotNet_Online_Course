@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SY8LT2cyeEA=",
+  "dgSpecHash": "Ux6zKwsF5n4=",
   "success": true,
-  "projectFilePath": "/Users/admin/Developer/Dotnet_with_angular/SocialApp/LSC.OnlineCourse.API/LSC.OnlineCourse.API.csproj",
+  "projectFilePath": "/Users/admin/Developer/Dotnet_with_angular/OnlineCourse/LSC.OnlineCourse.API/LSC.OnlineCourse.API.csproj",
   "expectedPackageFiles": [
     "/Users/admin/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/admin/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",
